@@ -1,2 +1,5 @@
 build/
+devdoc
 .cache/
+gdbinit
+*.log
